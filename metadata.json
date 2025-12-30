@@ -1,0 +1,7 @@
+{
+  "name": "Bernds Dart Pro Ai",
+  "description": "Comprehensive dart scoring with AI",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
